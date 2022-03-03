@@ -1,4 +1,4 @@
-name = "ArrayViews.jl"
+name = "ArrayViews"
 uuid = "268e34f8-cc7d-4112-bf3a-0d45b12e3d15"
 authors = []
 version = "0.9"
